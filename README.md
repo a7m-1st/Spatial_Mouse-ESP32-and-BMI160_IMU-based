@@ -12,9 +12,9 @@ Inspired by how Apple Vision pro Interface, this wireless mouse is created to em
 - Arduino IDE or equivalent
 
 # Connection Table
-- ESP32   BMI160
-- 3v3     VIN
-- Gnd     Gnd
-- 22      SCL
-- 21      SDA
+- ESP32 with  BMI160
+- 3v3  to   VIN
+- Gnd  to   Gnd
+- 22   to   SCL
+- 21   to   SDA
 - 9 (wt finger)
